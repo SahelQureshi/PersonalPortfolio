@@ -1,0 +1,585 @@
+@media only screen and (min-width: 200px){
+  .mabout {
+    padding: 1rem;
+    padding-top: 3rem;
+    background-color: black;
+    color: white;
+    max-width: 1370px;
+  }
+  .aboutcon {
+    max-width: 1540px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+  
+  }
+  .ab1 {
+    height: auto;
+    padding: 1rem;
+    width: 100%;  
+    display: flex;
+    justify-content: center;
+  }
+  .ab2 {
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+  }
+  .abcircle{
+    width: 244px;
+    height: 244px;
+    border-radius: 9999px;
+    background-image: url(../../Assests/Banner/vivid-blurred-colorful-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .aboutimg1{
+    width: 100%;
+    filter: drop-shadow(rgb(108, 108, 108) 28px 42px 16px);
+  }
+  .abouttextpara{
+    margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 11px;
+  text-align: center;
+  }
+  .aboutName{
+    font-size: 43px;
+    font-weight: bold;
+    height: 53px;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  .abbt014{
+    justify-content: center;
+  }
+  .abty {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 10px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    width: 84px;
+    height: 32px;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abty:active,
+  .abty:hover {
+    outline: 0;
+  }
+  
+  .abty .abtytext {
+    background-color: rgb(5, 6, 45);
+    padding: 9px 9px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abty:hover .abtytext {
+    background: none;
+  }
+}
+
+@media only screen and (min-width: 350px){
+  .mabout {
+    padding: 1rem;
+    padding-top: 3rem;
+    background-color: black;
+    color: white;
+  }
+  .aboutcon {
+    max-width: 1540px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+  
+  }
+  .ab1 {
+    height: auto;
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .ab2 {
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+  }
+  .abcircle{
+    width: 244px;
+    height: 244px;
+    border-radius: 9999px;
+    background-image: url(../../Assests/Banner/vivid-blurred-colorful-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .aboutimg1{
+    width: 100%;
+    filter: drop-shadow(rgb(108, 108, 108) 28px 42px 16px);
+  }
+  .abouttextpara{
+    margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 11px;
+  text-align: center;
+  }
+  .aboutName{
+    font-size: 43px;
+    font-weight: bold;
+    height: 53px;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  .abbt014{
+    justify-content: center;
+  }
+  .abty {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 10px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    width: 84px;
+    height: 32px;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abty:active,
+  .abty:hover {
+    outline: 0;
+  }
+  
+  .abty .abtytext {
+    background-color: rgb(5, 6, 45);
+    padding: 9px 9px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abty:hover .abtytext {
+    background: none;
+  }
+}
+
+
+@media only screen and (min-width: 550px){
+  .mabout {
+    padding: 1rem;
+    padding-top: 3rem;
+    background-color: black;
+    color: white;
+  }
+  .aboutcon {
+    max-width: 1540px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+  
+  }
+  .ab1 {
+    height: auto;
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .ab2 {
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+  }
+  .abcircle{
+    width: 335px;
+    height: 335px;
+    border-radius: 9999px;
+    background-image: url(../../Assests/Banner/vivid-blurred-colorful-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .aboutimg1{
+    width: 100%;
+    filter: drop-shadow(rgb(108, 108, 108) 28px 42px 16px);
+  }
+  .abouttextpara{
+    margin-top: 1rem;
+  margin-bottom: 3rem;
+  font-size: 12px;
+  text-align: center;
+  }
+  .aboutName{
+    font-size: 43px;
+    font-weight: bold;
+    height: 53px;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  .abbt014{
+    justify-content: center;
+  }
+  .abty {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 12px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    width: 98px;
+    height: 38px;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abty:active,
+  .abty:hover {
+    outline: 0;
+  }
+  
+  .abty .abtytext {
+    background-color: rgb(5, 6, 45);
+    padding: 9px 9px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abty:hover .abtytext {
+    background: none;
+  }
+}
+
+
+@media only screen and (min-width: 768px){
+  .mabout {
+    padding: 0;
+    padding-top: 3rem;
+    background-color: black;
+    color: white;
+  }
+  .aboutcon {
+    max-width: 1540px;
+    width: 100%;
+    display: flex;
+  
+  }
+  .ab1 {
+    height: 349px;
+    padding: 1rem;
+    width: 302px;
+    padding-bottom: 4rem;
+  }
+  .ab2 {
+    height: 100%;
+    width: 57%;
+    padding: 1rem;
+  }
+  .abbt014{
+    justify-content: left;
+  }
+  .abcircle{
+    width: 100%;
+    height: 100%;
+    border-radius: 9999px;
+    background-image: url(../../Assests/Banner/vivid-blurred-colorful-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .aboutimg1{
+    width: 100%;
+    filter: drop-shadow(rgb(108, 108, 108) 28px 42px 16px);
+  }
+  .abouttextpara{
+    margin-top: 1rem;
+  margin-bottom: 3rem;
+  font-size: 12px;
+  text-align: left;
+  }
+  .aboutName{
+    font-size: 43px;
+    font-weight: bold;
+    height: 53px;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  .abty {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 12px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    width: 98px;
+    height: 38px;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abty:active,
+  .abty:hover {
+    outline: 0;
+  }
+  
+  .abty .abtytext {
+    background-color: rgb(5, 6, 45);
+    padding: 9px 9px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abty:hover .abtytext {
+    background: none;
+  }
+}
+
+
+@media only screen and (min-width: 992px){
+  .mabout {
+    padding: 0.5rem;
+    padding-top: 3rem;
+    background-color: black;
+    color: white;
+  }
+  .aboutcon {
+    max-width: 1540px;
+    width: 100%;
+    display: flex;
+  
+  }
+  .ab1 {
+    height: 386px;
+    padding: 2rem;
+    width: 386px;
+    padding-bottom: 1rem;
+  }
+  .ab2 {
+    height: 100%;
+    width: 58%;
+    padding: 1rem;
+  }
+  .abcircle{
+    width: 100%;
+    height: 100%;
+    border-radius: 9999px;
+    background-image: url(../../Assests/Banner/vivid-blurred-colorful-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .aboutimg1{
+    width: 100%;
+    filter: drop-shadow(rgb(108, 108, 108) 28px 42px 16px);
+  }
+  .aboutName{
+    font-size: 53px;
+    font-weight: bold;
+    height: 77px;
+    margin-bottom: 1rem;
+  }
+  .abty {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 17px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    width: 140px;
+    height: 38px;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abty:active,
+  .abty:hover {
+    outline: 0;
+  }
+  
+  .abty .abtytext {
+    background-color: rgb(5, 6, 45);
+    padding: 8px 22px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abty:hover .abtytext {
+    background: none;
+  }
+}
+
+
+@media  screen and (min-width: 1200px){
+.mabout {
+  padding-top: 3rem;
+  background-color: black;
+  color: white;
+  padding: 0;
+}
+.aboutcon {
+  max-width: 1540px;
+  width: 100%;
+  display: flex;
+  padding: 1rem;
+}
+.abouttextpara {
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  font-size: 17px;
+  text-align: left;
+}
+.ab1 {
+    height: 541px;
+    padding: 2rem;
+    width: 488px;
+    padding-bottom: 6rem;
+}
+.ab2 {
+  height: 100%;
+  width: 58%;
+  padding: 1rem;
+}
+.abcircle{
+  width: 100%;
+  height: 100%;
+  border-radius: 9999px;
+  background-image: url(../../Assests/Banner/vivid-blurred-colorful-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aboutimg1{
+  width: 100%;
+  filter: drop-shadow(rgb(108, 108, 108) 28px 42px 16px);
+}
+.aboutName{
+  font-size: 65px;
+  font-weight: bold;
+}
+.abty {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  padding: 3px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+  width: 163px;
+  height: 43px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.abty:active,
+.abty:hover {
+  outline: 0;
+}
+
+.abty .abtytext {
+  background-color: rgb(5, 6, 45);
+  padding: 8px 22px;
+  border-radius: 6px;
+  width: 100%;
+  height: 100%;
+  transition: 300ms;
+  border-radius: 30px;
+}
+
+.abty:hover .abtytext {
+  background: none;
+}
+}

@@ -1,0 +1,168 @@
+@media only screen and (min-width: 350px){
+  .meinproject1{
+    padding: 0;
+  }
+  .prc1{
+      text-align: center;
+  }
+  .proj{
+    width: 143px;
+    height: 200px;
+    border-radius: 20px;
+    background-image: url(../../Assests/Projects/WhatsApp\ Image\ 2024-03-25\ at\ 10.07.36\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .prc2{
+    background-color: #242424;
+    border-radius: 47px;
+    padding: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-top: 28px;
+    flex-wrap: wrap;
+    padding-bottom: 2rem;
+  }
+  .projectname{
+    font-size: 33px;
+    height: 58px;
+  }
+  .projectpara{
+    font-size: 9px;
+  }
+  }
+
+@media only screen and (min-width: 550px){
+  .meinproject1{
+    padding: 1.5rem;
+  }
+  .prc1{
+      text-align: center;
+  }
+  .proj{
+    width: 178px;
+    height: 239px;
+    border-radius: 20px;
+    background-image: url(../../Assests/Projects/WhatsApp\ Image\ 2024-03-25\ at\ 10.07.36\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .prc2{
+    background-color: #242424;
+    border-radius: 47px;
+    padding: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-top: 28px;
+    flex-wrap: wrap;
+    padding-bottom: 2rem;
+  }
+  .projectname{
+    font-size: 39px;
+    height: 58px;
+  }
+  .projectpara{
+    font-size: 11px;
+  }
+  }
+
+@media only screen and (min-width: 768px){
+  .meinproject1{
+    padding: 1.5rem;
+  }
+  .prc1{
+      text-align: center;
+  }
+  .proj{
+    width: 152px;
+    height: 215px;
+    border-radius: 20px;
+    background-image: url(../../Assests/Projects/WhatsApp\ Image\ 2024-03-25\ at\ 10.07.36\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .prc2{
+    background-color: #242424;
+    padding-bottom: 3rem;
+    border-radius: 47px;
+    padding: 1rem;
+    padding-top: 28px;
+    flex-wrap: wrap;
+  }
+  .projectname{
+    font-size: 39px;
+    height: 58px;
+  }
+  .projectpara{
+    font-size: 14px;
+  }
+  }
+
+@media only screen and (min-width: 992px){
+  .meinproject1{
+    padding: 1.5rem;
+  }
+  .prc1{
+      text-align: center;
+  }
+  .proj{
+    width: 196px;
+    height: 264px;
+    border-radius: 20px;
+    background-image: url(../../Assests/Projects/WhatsApp\ Image\ 2024-03-25\ at\ 10.07.36\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  .prc2{
+    background-color: #242424;
+    padding-bottom: 3rem;
+    border-radius: 47px;
+    padding: 1rem;
+    padding-top: 80px;
+    flex-wrap: wrap;
+  }
+  .projectname{
+    font-size: 50px;
+    height: 80px;
+  }
+  .projectpara{
+    font-size: 16px;
+  }
+  }
+
+@media only screen and (min-width: 1200px){
+  .meinproject1{
+    padding: 1.5rem;
+  }
+.prc1{
+    text-align: center;
+}
+.proj{
+    width: 240px;
+  height: 322px;
+  border-radius: 20px;
+  background-image: url(../../Assests/Projects/WhatsApp\ Image\ 2024-03-25\ at\ 10.07.36\ PM.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.prc2{
+  background-color: #242424;
+  padding-bottom: 3rem;
+  border-radius: 47px;
+  padding: 1rem;
+  padding-top: 80px;
+  flex-wrap: wrap;
+}
+.projectname{
+  font-size: 63px;
+  height: 97px;
+}
+.projectpara{
+  font-size: 20px;
+}
+}

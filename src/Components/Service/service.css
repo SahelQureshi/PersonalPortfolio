@@ -1,0 +1,277 @@
+@media only screen and (min-width: 350px) {
+  .sercont{
+    max-width: 1274px;
+    height: 623px;
+  }
+  .service1{
+    width: 100%;
+    text-align: center;
+  }
+  .inservi{
+    width: 50%;
+  }
+  .service2{
+    background-color: #151414;
+    border-radius: 29px;
+    width: 100%;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .workser{
+    height: 36%;
+    margin: 12px;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-bottom: 51px;
+    margin-top: 31px;
+  }
+  .serimages{
+    width: 100%;
+    height: 100%;
+    transition: ease-in-out 3s;
+  
+  }
+  .serimages:hover{
+    transform: scale(2);
+  }
+  .servi1{
+    padding: 4px;
+    background-color: black;
+    color: white;
+    padding-bottom: 4rem;
+    padding-top: 2rem;
+  }
+  .Serviinner{
+    max-width: 1274px;
+    display: flex;
+    height: auto;
+    padding: 3px;
+    flex-wrap: wrap;
+  }
+  .ServiHead{
+    font-size:37px;
+  }
+  .service1{
+    padding: 4px;
+    font-size: 11px;
+  }
+  }
+
+
+@media only screen and (min-width: 550px) {
+  .sercont{
+    max-width: 1274px;
+    height: 623px;
+  }
+  .service1{
+    width: 100%;
+    text-align: center;
+  }
+  .inservi{
+    width: 50%;
+  }
+  .service2{
+    background-color: #151414;
+    border-radius: 29px;
+    width: 100%;
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .workser{
+    height: 36%;
+    margin: 12px;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-bottom: 51px;
+    margin-top: 48px;
+  }
+  .serimages{
+    width: 100%;
+    height: 100%;
+    transition: ease-in-out 3s;
+  
+  }
+  .serimages:hover{
+    transform: scale(2);
+  }
+  .servi1{
+    padding: 4px;
+    background-color: black;
+    color: white;
+    padding-bottom: 4rem;
+    padding-top: 2rem;
+  }
+  .Serviinner{
+    max-width: 1274px;
+    display: flex;
+    height: auto;
+    padding: 3px;
+    flex-wrap: wrap;
+  }
+  .ServiHead{
+    font-size:50px;
+  }
+  .service1{
+    padding: 1rem;
+    font-size: 14px;
+  }
+  }
+
+
+@media only screen and (min-width: 768px) {
+  .sercont{
+    max-width: 1274px;
+    height: 623px;
+  }
+  .service1,.inservi{
+    width: 50%;
+  }
+  .service2{
+    background-color: #151414;
+    border-radius: 29px;
+    width: 50%;
+    display: flex;
+  }
+  .workser{
+    height: 36%;
+    margin: 12px;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-bottom: 51px;
+    margin-top: 48px;
+  }
+  .serimages{
+    width: 100%;
+    height: 100%;
+    transition: ease-in-out 3s;
+  
+  }
+  .serimages:hover{
+    transform: scale(2);
+  }
+  .servi1{
+    padding: 4px;
+    background-color: black;
+    color: white;
+  }
+  .Serviinner{
+    max-width: 1274px;
+    display: flex;
+    height: 600px;
+    padding: 3px;
+    flex-wrap: nowrap;
+  }
+  .ServiHead{
+    font-size:50px;
+  }
+  .service1{
+    padding: 1rem;
+    font-size: 14px;
+  }
+  }
+
+
+@media only screen and (min-width: 992px) {
+  .sercont{
+    max-width: 1274px;
+    height: 623px;
+  }
+  .service1,.inservi{
+    width: 50%;
+  }
+  .service2{
+    background-color: #151414;
+    border-radius: 29px;
+    width: 50%;
+    display: flex;
+  }
+  .workser{
+    height: 45%;
+    margin: 12px;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  }
+  .serimages{
+    width: 100%;
+    height: 100%;
+    transition: ease-in-out 3s;
+  
+  }
+  .serimages:hover{
+    transform: scale(2);
+  }
+  .servi1{
+    padding: 20px;
+    background-color: black;
+    color: white;
+  }
+  .Serviinner{
+    max-width: 1274px;
+    display: flex;
+    height: 600px;
+    flex-wrap: nowrap;
+  }
+  .ServiHead{
+    font-size:55px;
+  }
+  .service1{
+    padding: 1rem;
+  }
+  }
+
+
+@media only screen and (min-width: 1200px) {
+.sercont{
+    max-width: 1274px;
+  height: 623px;
+}
+.service1,.inservi{
+  width: 50%;
+}
+.service2{
+  background-color: #151414;
+  border-radius: 29px;
+  width: 50%;
+  display: flex;
+}
+.workser{
+
+  height: 250px;
+  margin: 30px;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.serimages{
+  width: 280px;
+  height: 251px;
+  transition: ease-in-out 3s;
+
+}
+.serimages:hover{
+  transform: scale(2);
+}
+.servi1{
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+.Serviinner{
+  max-width: 1274px;
+  display: flex;
+  height: 600px;
+  flex-wrap: nowrap;
+}
+.ServiHead{
+  font-size:55px;
+}
+.service1{
+  padding: 1rem;
+}
+}

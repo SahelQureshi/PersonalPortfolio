@@ -1,0 +1,399 @@
+@media only screen and (min-width: 350px) {
+  .conta{
+    width: 100%;
+    padding: 1rem;
+  }
+  .form-control{
+    margin-bottom: 1rem;
+  }
+  .btnse {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    width: 105px;
+    border-radius: 999px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    height: 40px;
+    font-size: 12px;
+    padding: 4px 5px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .btnse:active,
+  .btnse:hover {
+    outline: 0;
+  }
+  .contactImgs{
+    width: 25px;
+    margin-right: 1rem;
+  }
+  li{
+    list-style: none; ;
+  }
+  .contaimgd{
+    width: 100%;
+    padding: 3rem 2rem 2rem;
+    border-radius: 24px;
+    background-image: url(../../Assests/Contact/vivid-blurred-colorful-background\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .Contact1{
+    padding: 5rem 20px 20px;
+    background: black;
+    color: white;
+  }
+  .ContactInner{
+    max-width: 1300px;
+    border: 1px solid black;
+    padding: 5px;
+    flex-wrap: wrap;
+  }
+  .ContacLi{
+    margin-bottom: 9px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .contactPara{
+    margin-bottom: 5rem;
+    font-size: 13px;
+    text-align: center;
+  }
+  .ContacHead{
+    font-size: 46px;
+    font-weight: bold;
+    text-align: center;
+  }
+  }
+
+
+@media only screen and (min-width: 550px) {
+  .conta{
+      width: 100%;
+    padding: 1rem;
+  }
+  .form-control{
+    margin-bottom: 1rem;
+  }
+  .btnse {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    width: 123px;
+    border-radius: 999px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    height: 38px;
+    font-size: 15px;
+    padding: 19px 24px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .btnse:active,
+  .btnse:hover {
+    outline: 0;
+  }
+  .contactImgs{
+    width: 25px;
+    margin-right: 1rem;
+  }
+  li{
+    list-style: none; ;
+  }
+  .contaimgd{
+    width: 100%;
+    padding: 3rem 2rem 2rem;
+    border-radius: 24px;
+    background-image: url(../../Assests/Contact/vivid-blurred-colorful-background\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .Contact1{
+    padding: 5rem 20px 20px;
+    background: black;
+    color: white;
+  }
+  .ContactInner{
+    max-width: 1300px;
+    border: 1px solid black;
+    padding: 5px;
+    flex-wrap: wrap;
+  }
+  .ContacLi{
+    margin-bottom: 19px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .contactPara{
+    margin-bottom: 10rem;
+    font-size: 13px;
+    text-align: center;
+  }
+  .ContacHead{
+    font-size: 46px;
+    font-weight: bold;
+    text-align: center;
+  }
+  }
+
+
+@media only screen and (min-width: 768px) {
+  .conta{
+      width: 50%;
+    padding: 1rem;
+  }
+  .form-control{
+    margin-bottom: 1rem;
+  }
+  .btnse {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    width: 123px;
+    border-radius: 999px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    height: 38px;
+    font-size: 15px;
+    padding: 19px 24px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .btnse:active,
+  .btnse:hover {
+    outline: 0;
+  }
+  .contactImgs{
+    width: 25px;
+    margin-right: 1rem;
+  }
+  li{
+    list-style: none; ;
+  }
+  .contaimgd{
+    width: 50%;
+    padding: 3rem 2rem 2rem;
+    border-radius: 24px;
+    background-image: url(../../Assests/Contact/vivid-blurred-colorful-background\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .Contact1{
+    padding: 5rem 20px 20px;
+    background: black;
+    color: white;
+  }
+  .ContactInner{
+    max-width: 1300px;
+    border: 1px solid black;
+    padding: 5px;
+    flex-wrap: nowrap;
+  }
+  .ContacLi{
+    margin-bottom: 19px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .contactPara{
+    margin-bottom: 10rem;
+    font-size: 13px;
+  }
+  .ContacHead{
+    font-size: 46px;
+    font-weight: bold;
+  }
+  }
+
+@media only screen and (min-width: 992px) {
+  .conta{
+      width: 50%;
+    min-width: 415px;
+    padding: 1.5rem;
+  }
+  .form-control{
+    margin-bottom: 2rem;
+  }
+  .btnse {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    width: 175px;
+    border-radius: 999px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    height: 46px;
+    font-size: 19px;
+    padding: 19px 24px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .btnse:active,
+  .btnse:hover {
+    outline: 0;
+  }
+  .contactImgs{
+    width: 31px;
+    margin-right: 1rem;
+  }
+  li{
+    list-style: none; ;
+  }
+  .contaimgd{
+    width: 50%;
+    min-width: 415px;
+    padding: 6rem 2rem 2rem;
+    border-radius: 24px;
+    background-image: url(../../Assests/Contact/vivid-blurred-colorful-background\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .Contact1{
+    padding: 5rem 20px 20px;
+    background: black;
+    color: white;
+  }
+  .ContactInner{
+    max-width: 1300px;
+    border: 1px solid black;
+    padding: 5px;
+    flex-wrap: nowrap;
+  }
+  .ContacLi{
+    margin-bottom: 19px;
+    font-size: 21px;
+    font-weight: bold;
+  }
+  .contactPara{
+    margin-bottom: 10rem;
+    font-size: 17px;
+  }
+  .ContacHead{
+    font-size: 66px;
+    font-weight: bold;
+  }
+  }
+
+@media only screen and (min-width: 1200px) {
+.conta{
+    width: 50%;
+  min-width: 415px;
+  padding: 1.5rem;
+}
+.form-control{
+  margin-bottom: 2rem;
+}
+.btnse {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  width: 175px;
+  border-radius: 999px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  height: 46px;
+  font-size: 19px;
+  padding: 19px 24px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.btnse:active,
+.btnse:hover {
+  outline: 0;
+}
+.contactImgs{
+  width: 36px;
+  margin-right: 1.1rem;
+}
+li{
+  list-style: none; ;
+}
+.contaimgd{
+  width: 50%;
+  min-width: 415px;
+  padding: 6rem 2rem 2rem;
+  border-radius: 24px;
+  background-image: url(../../Assests/Contact/vivid-blurred-colorful-background\ \(1\).jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Contact1{
+  padding: 5rem 20px 20px;
+  background: black;
+  color: white;
+}
+.ContactInner{
+  max-width: 1300px;
+  border: 1px solid black;
+  padding: 3rem;
+  flex-wrap: nowrap;
+}
+.ContacLi{
+  margin-bottom: 30px;
+  font-size: 21px;
+  font-weight: bold;
+}
+.contactPara{
+  margin-bottom: 10rem;
+  font-size: 21px;
+}
+.ContacHead{
+  font-size: 4rem;
+  font-weight: bold;
+}
+}

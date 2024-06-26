@@ -1,0 +1,877 @@
+@media only screen and (min-width: 200px) {
+  .meinbanner {
+    height: auto;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: white;
+    padding-bottom: 4rem;
+  }
+  .mb1 {
+    min-width: 326px;
+    width: 100%;
+    height: 100%;
+    padding: 3px;
+    text-align: center;
+    z-index: 1;
+  }
+  .meincontainer {
+    max-width: 2000px;
+    width: 100%;
+    padding-top: 21px;
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap-reverse;
+  }
+  .mb2 {
+    min-width: 326px;
+    width: 100%;
+    padding: 2rem;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .bannerName {
+    font-size: 10vw;
+    font-weight: bold;
+    margin-bottom: 5px;
+    background: linear-gradient(90deg, #12C2E9 4%, #C471ED 39%, #F64F59 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 60px;
+  }
+  .typedevn{
+    font-size: 4.6vw;
+  }
+  .icons {
+    margin-top: 1.7rem;
+    margin-bottom: 2rem;
+  }
+  .movingimage{
+    width: 114px;
+    height: 61px;
+    position: absolute;
+    transform: rotate(151deg);
+    top: 20%;
+    z-index: 0;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin-left: 10px;
+  }
+  .movingimage2{
+    position: absolute;
+    right: 0%;
+    width: 99px;
+  }
+  @keyframes example {
+    
+    0%   {top: 0%;}
+    100% {top:100% ;}
+  }
+  .mb2imagportion{
+    background-image: url(../../Assests/Patterns/backgroundphoto.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 323px;
+    width: 265px;
+    border-radius: 30px;
+  }
+  .mb2myimage{
+    width: 100%;
+    height: 366px;
+    filter: drop-shadow(24px 12px 24px #313131);
+  }
+  .abtymbn {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    width: 123px;
+    height: 39px;
+    font-size: 13px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abtymbn:active,
+  .abtymbn:hover {
+    outline: 0;
+  }
+  
+  .abtymbn .abtymbntext {
+    background-color: rgb(5, 6, 45);
+    padding: 8px 22px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abtymbn:hover .abtymbntext {
+    background: none;
+  }
+  .text1{
+    font-size: 7vw;
+  }
+  .text2{
+    font-size: 3.5vw;
+  }
+  .text3{
+    font-size: 5.1vw;
+  }
+  .banimgt1{
+    width: 7.1vw;
+  margin-right: 16px;
+  }
+  .bacasrc{
+    justify-content: center;
+  }
+}
+
+@media only screen and (min-width: 350px) {
+  .meinbanner {
+    height: auto;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: white;
+    padding-bottom: 4rem;
+  }
+  .mb1 {
+    min-width: 326px;
+    width: 100%;
+    height: 100%;
+    padding: 3px;
+    text-align: center;
+    z-index: 1;
+  }
+  .meincontainer {
+    max-width: 2000px;
+    width: 100%;
+    padding-top: 21px;
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap-reverse;
+  }
+  .mb2 {
+    min-width: 326px;
+    width: 100%;
+    padding: 2rem;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .bannerName {
+    font-size: 10vw;
+    font-weight: bold;
+    margin-bottom: 5px;
+    background: linear-gradient(90deg, #12C2E9 4%, #C471ED 39%, #F64F59 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 60px;
+  }
+  .typedevn{
+    font-size: 4.6vw;
+  }
+  .icons {
+    margin-top: 1.7rem;
+    margin-bottom: 2rem;
+  }
+  .movingimage{
+    width: 114px;
+    height: 61px;
+    position: absolute;
+    transform: rotate(151deg);
+    top: 20%;
+    z-index: 0;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin-left: 10px;
+  }
+  .movingimage2{
+    position: absolute;
+    right: 0%;
+    width: 99px;
+  }
+  @keyframes example {
+    
+    0%   {top: 0%;}
+    100% {top:100% ;}
+  }
+  .mb2imagportion{
+    background-image: url(../../Assests/Patterns/backgroundphoto.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 323px;
+    width: 265px;
+    border-radius: 30px;
+  }
+  .mb2myimage{
+    width: 100%;
+    height: 366px;
+    filter: drop-shadow(24px 12px 24px #313131);
+  }
+  .abtymbn {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    width: 123px;
+    height: 39px;
+    font-size: 13px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abtymbn:active,
+  .abtymbn:hover {
+    outline: 0;
+  }
+  
+  .abtymbn .abtymbntext {
+    background-color: rgb(5, 6, 45);
+    padding: 8px 22px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abtymbn:hover .abtymbntext {
+    background: none;
+  }
+  .text1{
+    font-size: 7vw;
+  }
+  .text2{
+    font-size: 3.5vw;
+  }
+  .text3{
+    font-size: 5.1vw;
+  }
+  .banimgt1{
+    width: 7.1vw;
+  margin-right: 16px;
+  }
+  .bacasrc{
+    justify-content: center;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 550px) {
+  .meinbanner {
+    height: auto;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: white;
+    padding-bottom: 4rem;
+  }
+  .mb1 {
+    min-width: 350px;
+    width: 100%;
+    height: 100%;
+    padding: 3px;
+    text-align: center;
+    z-index: 1;
+  }
+  .meincontainer {
+    max-width: 2000px;
+    width: 100%;
+    padding-top: 21px;
+    display: flex;
+    height: 100%;
+    flex-wrap: wrap-reverse;
+  }
+  .mb2 {
+    min-width: 350px;
+    width: 100%;
+    padding: 2rem;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+  }
+  .bannerName {
+    font-size: 10vw;
+    font-weight: bold;
+    margin-bottom: 5px;
+    background: linear-gradient(90deg, #12C2E9 4%, #C471ED 39%, #F64F59 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 73px;
+  }
+  .typedevn{
+    font-size: 4.6vw;
+  }
+  .icons {
+    margin-top: 1.7rem;
+    margin-bottom: 2rem;
+  }
+  .movingimage{
+    width: 150px;
+    height: 74px;
+    position: absolute;
+    transform: rotate(151deg);
+    top: 20%;
+    z-index: 0;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin-left: 10px;
+  }
+  .movingimage2{
+    position: absolute;
+    right: 0%;
+    width: 99px;
+  }
+  @keyframes example {
+    
+    0%   {top: 0%;}
+    100% {top:100% ;}
+  }
+  .mb2imagportion{
+    background-image: url(../../Assests/Patterns/backgroundphoto.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 323px;
+    width: 265px;
+    border-radius: 30px;
+  }
+  .mb2myimage{
+    width: 100%;
+    height: 366px;
+    filter: drop-shadow(24px 12px 24px #313131);
+  }
+  .abtymbn {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    width: 123px;
+    height: 39px;
+    font-size: 13px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abtymbn:active,
+  .abtymbn:hover {
+    outline: 0;
+  }
+  
+  .abtymbn .abtymbntext {
+    background-color: rgb(5, 6, 45);
+    padding: 8px 22px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abtymbn:hover .abtymbntext {
+    background: none;
+  }
+  .text1{
+    font-size: 7vw;
+  }
+  .text2{
+    font-size: 3.5vw;
+  }
+  .text3{
+    font-size: 5.1vw;
+  }
+  .banimgt1{
+    width: 7.1vw;
+  margin-right: 16px;
+  }
+  .bacasrc{
+    justify-content: center;
+  }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .meinbanner {
+    height: 615px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: white;
+  }
+  .mb1 {
+    width: 50%;
+    height: 100%;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    z-index: 1;
+    text-align: left;
+  }
+  .meincontainer {
+    max-width: 2000px;
+    width: 100%;
+    padding-top: 21px;
+    display: flex;
+    height: 100%;
+  }
+  .mb2 {
+    width: 50%;
+    height: 100%;
+    padding: 2rem;
+    z-index: 1;
+  }
+  .bannerName {
+    font-size: 5vw;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(90deg, #12C2E9 4%, #C471ED 39%, #F64F59 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 55px;
+  }
+  .typedevn{
+    font-size: 2.6vw;
+  }
+  .icons {
+    margin-top: 1.7rem;
+    margin-bottom: 2rem;
+  }
+  .movingimage{
+    width: 99px;
+    height: 51px;
+    position: absolute;
+    transform: rotate(151deg);
+    top: 20%;
+    z-index: 0;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin-left: 10px;
+  }
+  .movingimage2{
+    position: absolute;
+    right: 0%;
+    width: 81px;
+  }
+  @keyframes example {
+    
+    0%   {top: 0%;}
+    100% {top:100% ;}
+  }
+  .mb2imagportion{
+    background-image: url(../../Assests/Patterns/backgroundphoto.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 347px;
+    width: 301px;
+    border-radius: 30px;
+  }
+  .mb2myimage{
+    width: 100%;
+    height: 388px;
+    filter: drop-shadow(24px 12px 24px #313131);
+  }
+  .abtymbn {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    width: 130px;
+    height: 35px;
+    font-size: 13px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abtymbn:active,
+  .abtymbn:hover {
+    outline: 0;
+  }
+  
+  .abtymbn .abtymbntext {
+    background-color: rgb(5, 6, 45);
+    padding: 8px 22px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abtymbn:hover .abtymbntext {
+    background: none;
+  }
+  .text1{
+    font-size: 2.8vw;
+  }
+  .text2{
+    font-size: 1.3vw;
+  }
+  .text3{
+    font-size: 1.8vw;
+  }
+  .banimgt1{
+    width: 2.5vw;
+  margin-right: 16px;
+  }
+  .bacasrc{
+    justify-content: left;
+  }
+}
+
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .meinbanner {
+    height: 850px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: white;
+  }
+  .mb1 {
+    width: 50%;
+    height: 100%;
+    padding-top: 4rem;
+    padding-left: 3rem;
+    z-index: 1;
+  }
+  .meincontainer {
+    max-width: 2000px;
+    width: 100%;
+    padding-top: 21px;
+    display: flex;
+    height: 100%;
+  }
+  .mb2 {
+    width: 50%;
+    height: 100%;
+    padding: 2rem;
+    z-index: 1;
+  }
+  .bannerName {
+    font-size: 5vw;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    background: linear-gradient(90deg, #12C2E9 4%, #C471ED 39%, #F64F59 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 66px;
+  }
+  .typedevn{
+    font-size: 2.6vw;
+  }
+  .icons {
+    margin-top: 1.7rem;
+    margin-bottom: 2rem;
+  }
+  .movingimage{
+    width: 141px;
+    height: 68px;
+    position: absolute;
+    transform: rotate(151deg);
+    top: 20%;
+    z-index: 0;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin-left: 10px;
+  }
+  .movingimage2{
+    position: absolute;
+    right: 0%;
+    width: 109px;
+  }
+  @keyframes example {
+    
+    0%   {top: 0%;}
+    100% {top:100% ;}
+  }
+  .mb2imagportion{
+    background-image: url(../../Assests/Patterns/backgroundphoto.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 424px;
+    width: 380px;
+    border-radius: 30px;
+  }
+  .mb2myimage{
+    width: 100%;
+    height: 508px;
+    filter: drop-shadow(24px 12px 24px #313131);
+  }
+  .abtymbn {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    width: 163px;
+    height: 43px;
+    border-radius: 30px;
+    margin-right: 10px;
+  }
+  
+  .abtymbn:active,
+  .abtymbn:hover {
+    outline: 0;
+  }
+  
+  .abtymbn .abtymbntext {
+    background-color: rgb(5, 6, 45);
+    padding: 8px 22px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  
+  .abtymbn:hover .abtymbntext {
+    background: none;
+  }
+  .text1{
+    font-size: 2.8vw;
+  }
+  .text2{
+    font-size: 1.3vw;
+  }
+  .text3{
+    font-size: 1.8vw;
+  }
+  .banimgt1{
+    width: 2.5vw;
+  margin-right: 16px;
+  }
+}
+
+
+@media  screen and (min-width: 1200px){
+.meinbanner {
+  height: 850px;
+  padding-top: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  color: white;
+  max-width: 1370px;
+}
+.mb1 {
+  width: 50%;
+  height: 100%;
+  padding-top: 8rem;
+  padding-left: 3rem;
+  z-index: 1;
+  text-align: left;
+}
+.meincontainer {
+  max-width: 2000px;
+  width: 100%;
+  padding-top: 21px;
+  display: flex;
+  height: 100%;
+}
+.mb2 {
+  width: 50%;
+  height: 100%;
+  padding: 2rem;
+  z-index: 1;
+}
+.bannerName {
+  font-size: 5vw;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  background: linear-gradient(90deg, #12C2E9 4%, #C471ED 39%, #F64F59 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+height: 100px;
+}
+.typedevn{
+  font-size: 2.6vw;
+}
+.icons {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+.movingimage{
+  width: 188px;
+  height: 101px;
+  position: absolute;
+  transform: rotate(151deg);
+  top: 20%;
+  z-index: 0;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  margin-left: 10px;
+}
+.movingimage2{
+  position: absolute;
+  right: 0%;
+  width: 150px;
+}
+@keyframes example {
+  
+  0%   {top: 10px;}
+  100% {top:500px ;}
+}
+.mb2imagportion{
+  background-image: url(../../Assests/Patterns/backgroundphoto.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 530px;
+  width: 475px;
+  border-radius: 30px;
+}
+.mb2myimage{
+  width: 100%;
+  height: 635px;
+  filter: drop-shadow(24px 12px 24px #313131);
+}
+.abtymbn {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  padding: 3px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+  width: 163px;
+  height: 43px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.abtymbn:active,
+.abtymbn:hover {
+  outline: 0;
+}
+
+.abtymbn .abtymbntext {
+  background-color: rgb(5, 6, 45);
+  padding: 8px 22px;
+  border-radius: 6px;
+  width: 100%;
+  height: 100%;
+  transition: 300ms;
+  border-radius: 30px;
+}
+
+.abtymbn:hover .abtymbntext {
+  background: none;
+}
+.text1{
+  font-size: 2.8vw;
+}
+.text2{
+  font-size: 1.3vw;
+}
+.text3{
+  font-size: 1.8vw;
+}
+.banimgt1{
+  width: 2.5vw;
+margin-right: 16px;
+}
+}
+

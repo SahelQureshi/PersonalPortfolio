@@ -1,0 +1,549 @@
+@media only screen and (min-width: 350px) {
+  .arcfirstd1{
+    padding: 8px;
+    background-color: black;
+    color: white;
+    padding-bottom: 34px;
+  }
+  .apc1{
+    height: 27px;
+    display: flex;
+    margin-bottom: 14px;
+  }
+  .apc2{
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .apctext1{
+    width: 206px;
+    height: auto;
+  }
+  .apctext2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 100px;
+    height: auto;
+    text-align: end;
+    font-size: 11px;
+  }
+  .innerapc{
+    width: 100%;
+  }
+  .innerapc2{
+    width: 100%;
+    padding: 0.5rem;
+    padding-top: 1.1rem;
+  }
+  .firstapc{
+    width: 312px;
+    height: auto;
+    border-radius: 24px;
+    background-color: #151414;
+    padding: 4px;
+    padding-bottom: 13px;
+    
+  }
+  .picarc{
+    width: 100%;
+    height: 243px;
+    margin-bottom: 1rem;
+    border-radius: 20px 20px 0px 0px;
+    background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .everyapc{
+    width: 100%;
+    height: 171px;
+    border-block-end: 3px solid #bfb8b8;
+    padding-bottom: 14px;
+    padding-top: 5px;
+  }
+  .arcimagein{
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .ArticlesMtext{
+    font-size: 22px;
+  }
+  .ArcFirstImg{
+    width: 59px;
+    height: 59px;
+    margin-right: 23px;
+  }
+  .ArcSecondImg{
+    width: 53px;
+    height: 53px;
+    transform: rotate(90deg);
+  }
+  .smallAv{
+    width: 36px;
+    height: 36px;
+  }
+  .arrowsmall{
+    width: 33px;
+    height: 33px;
+    transform: rotate(90deg);
+  }
+  .arctextin{
+    font-size: 15px;
+  }
+  .arcth5{
+    margin-bottom: 1.8rem;
+    font-size: 19px;
+    width: 163px;
+  }
+  .Apctexh{
+    font-size: 21px;
+    margin-bottom: 16px;
+    font-weight: bold;
+  }
+  .artisah{
+    font-size: 24px;
+    margin-top: 7px;
+  }
+  }
+
+@media only screen and (min-width: 550px) {
+  .arcfirstd1{
+    padding: 8px;
+    background-color: black;
+    color: white;
+  }
+  .apc1{
+    height: 47px;
+    display: flex;
+  }
+  .apc2{
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .apctext1{
+    width: 348px;
+    height: auto;
+  }
+  .apctext2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 160px;
+    height: auto;
+    text-align: end;
+    font-size: 16px;
+  }
+  .innerapc{
+    width: 100%;
+    height: 660px;
+  }
+  .innerapc2{
+    width: 100%;
+    padding: 0.5rem;
+    padding-top: 1.1rem;
+  }
+  .firstapc{
+    width: 604px;
+    height: auto;
+    border-radius: 24px;
+    background-color: #151414;
+    padding: 1.2rem;
+    
+  }
+  .picarc{
+  
+    width: 100%;
+    height: 350px;
+    margin-bottom: 1rem;
+    border-radius: 20px 20px 0px 0px;
+    background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .everyapc{
+    width: 100%;
+    height: 222px;
+    border-block-end: 3px solid #bfb8b8;
+    padding-bottom: 1rem;
+    padding-top: 1.5rem;
+  }
+  .arcimagein{
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .ArticlesMtext{
+    font-size: 38px;
+  }
+  .ArcFirstImg{
+    width: 88px;
+    height: 88px;
+    margin-right: 23px;
+  }
+  .ArcSecondImg{
+    width: 77px;
+    height: 83px;
+    transform: rotate(90deg);
+  }
+  .smallAv{
+    width: 50px;
+    height: 50px;
+  }
+  .arrowsmall{
+    width: 44px;
+    height: 44px;
+    transform:rotate(90deg) ;
+  }
+  .arctextin{
+    font-size: 25px;
+  }
+  .arcth5{
+    margin-bottom: 2rem;
+    font-size: 24px;
+    width: 277px;
+  }
+  .Apctexh{
+    font-size: 2rem;
+    margin-bottom: 27px;
+    font-weight: bold;
+  }
+  .artisah{
+    font-size: 41px;
+    margin-top: 7px;
+  }
+  }
+
+
+@media only screen and (min-width: 768px) {
+  .arcfirstd1{
+    padding: 8px;
+    background-color: black;
+    color: white;
+  }
+  .apc1{
+    height: 76px;
+    display: flex;
+  }
+  .apc2{
+    height: 662px;
+    display: flex;
+  }
+  .apctext1{
+    width: 50%;
+    height: auto;
+    padding:1rem;
+  }
+  .apctext2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 50%;
+    height: auto;
+    text-align: end;
+    font-size: 1.2rem;
+    padding:1rem;
+  }
+  .innerapc{
+    width: 50%;
+    height: 660px;
+  }
+  .innerapc2{
+    width: 50%;
+    height: 660px;
+    padding: 0.5rem;
+    padding-top: 3.1rem;
+  }
+  .firstapc{
+    width: 500px;
+    height: 560px;
+    border-radius: 24px;
+    background-color: #151414;
+    padding: 1.2rem;
+    
+  }
+  .picarc{
+  
+    width: 100%;
+    height: 350px;
+    margin-bottom: 1rem;
+    border-radius: 20px 20px 0px 0px;
+    background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .everyapc{
+    width: 100%;
+    height: 179px;
+    border-block-end: 3px solid #bfb8b8;
+    padding-bottom: 1rem;
+    padding-top: 1.5rem;
+  }
+  .arcimagein{
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .ArticlesMtext{
+    font-size: 35px;
+  }
+  .ArcFirstImg{
+    width: 61px;
+    height: 61px;
+    margin-right: 23px;
+  }
+  .ArcSecondImg{
+    width: 54px;
+    height: 54px;
+    transform: rotate(90deg);
+  }
+  .smallAv{
+    width: 35px;
+    height: 35px;
+  }
+  .arrowsmall{
+    width: 30px;
+    height: 30px;
+    transform:rotate(90deg) ;
+  }
+  .arctextin{
+    font-size: 18px;
+  }
+  .arcth5{
+    margin-bottom: 3rem;
+    font-size: 17px;
+    width: auto;
+  }
+  .Apctexh{
+    font-size: 1.4rem;
+    margin-bottom: 30px;
+  }
+  .artisah{
+    font-size: 27px;
+    margin-top: 7px;
+  }
+  }
+
+@media only screen and (min-width: 992px) {
+  .arcfirstd1{
+    padding: 20px;
+    background-color: black;
+    color: white;
+  }
+  .apc1{
+      height: 138px;
+  
+    display: flex;
+  }
+  .apc2{
+    
+    height: 662px;
+    display: flex;
+  }
+  .apctext1{
+    width: 50%;
+    height: auto;
+    padding:1rem;
+  }
+  .apctext2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 50%;
+    height: auto;
+    text-align: end;
+    font-size: 1.4rem;
+    padding:1rem;
+  }
+  .innerapc{
+    width: 50%;
+    height: 660px;
+  }
+  .innerapc2{
+    width: 50%;
+    height: 660px;
+    padding: 2rem;
+    padding-top: 3.1rem;
+  }
+  .firstapc{
+    width: 500px;
+    height: 560px;
+    border-radius: 24px;
+    background-color: #151414;
+    padding: 1.2rem;
+    
+  }
+  .picarc{
+  
+    width: 100%;
+    height: 350px;
+    margin-bottom: 1rem;
+    border-radius: 20px 20px 0px 0px;
+    background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .everyapc{
+    width: 100%;
+    height: 190px;
+    border-block-end: 3px solid #bfb8b8;
+    padding-bottom: 1rem;
+    padding-top: 1.5rem;
+  }
+  .arcimagein{
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .ArticlesMtext{
+    font-size: 44px;
+  }
+  .ArcFirstImg{
+    width: 61px;
+    height: 61px;
+    margin-right: 23px;
+  }
+  .ArcSecondImg{
+    width: 54px;
+    height: 54px;
+    transform: rotate(90deg);
+  }
+  .smallAv{
+    width: 42px;
+    height: 42px;
+  }
+  .arrowsmall{
+    width: 38px;
+    height: 38px;
+    transform:rotate(90deg) ;
+  }
+  .arctextin{
+    font-size: 24px;
+  }
+  .arcth5{
+    margin-bottom: 3rem;
+    width: auto;
+  }
+  .Apctexh{
+    font-size: 1.8rem;
+  }
+  }
+
+@media only screen and (min-width: 1200px) {
+.arcfirstd1{
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+.apc1{
+    height: 138px;
+
+  display: flex;
+}
+.apc2{
+  
+  height: 662px;
+  display: flex;
+}
+.apctext1{
+  
+  width: 50%;
+  height: auto;
+  padding:2rem;
+}
+.apctext2{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 50%;
+  height: auto;
+  text-align: end;
+  font-size: 1.5rem;
+  padding:2rem;
+}
+.innerapc{
+  width: 50%;
+  height: 660px;
+}
+.innerapc2{
+  width: 50%;
+  height: 660px;
+  padding: 2rem;
+  padding-top: 3.1rem;
+}
+.firstapc{
+  width: 500px;
+  height: 560px;
+  border-radius: 24px;
+  background-color: #151414;
+  padding: 1.2rem;
+  
+}
+.picarc{
+
+  width: 100%;
+  height: 350px;
+  margin-bottom: 1rem;
+  border-radius: 20px 20px 0px 0px;
+  background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.everyapc{
+  width: 100%;
+  height: 190px;
+  border-block-end: 3px solid #bfb8b8;
+  padding-bottom: 1rem;
+  padding-top: 1.5rem;
+}
+.arcimagein{
+  width: 200px;
+  border-radius: 20px;
+  margin-right: 1rem;
+  background-image: url(../../Assests/Avatar/coding-background-9izlympnd0ovmpli.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ArticlesMtext{
+  font-size: 54px;
+}
+.ArcFirstImg{
+  width: 67px;
+  height: 67px;
+  margin-right: 23px;
+}
+.ArcSecondImg{
+  width: 69px;
+  height: 69px;
+  transform: rotate(90deg);
+}
+.smallAv{
+  width: 50px;
+  height: 50px;
+}
+.arrowsmall{
+  width: 49px;
+  height: 49px;
+  transform:rotate(90deg) ;
+}
+.arcth5{
+  margin-bottom: 3rem;
+  width: auto;
+}
+.Apctexh{
+  font-size: 1.5rem;
+}
+}

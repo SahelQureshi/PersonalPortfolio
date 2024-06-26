@@ -1,0 +1,340 @@
+@media only screen and (min-width: 200px){
+  .allp{
+      width: 100%;
+      padding: 3px;
+    overflow: hidden;
+    height: 77%;
+    display: flex;
+    justify-content: center;
+  }
+  .allp2{
+    width: 100%;
+    padding: 3px;
+  overflow: hidden;
+  height: 77%;
+}
+  .allsimages{
+      width: 40px;
+      height: auto;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+      margin-right: 16px;
+    margin-bottom: 77px;
+  }
+  .allsimages:hover{
+      animation-name: bounce;
+    animation-timing-function: ease;
+  }
+  .skicona{
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+  .Allskip2{
+    max-width: 1274px;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .Allskimg{
+    width: 356px;
+    height: 356px;
+  }
+  .Allskinames{
+    color: rgb(191, 64, 191);
+    font-weight: bold;
+    margin-bottom: 3rem;
+    font-size: 19px;
+  }
+  @keyframes bounce {
+      0%   { transform: translateY(0); }
+      50%  { transform: translateY(-50px); }
+      100% { transform: translateY(0); }
+      }
+  }
+@media only screen and (min-width: 350px){
+  .allp{
+      width: 100%;
+      padding: 3px;
+    overflow: hidden;
+    height: 77%;
+    display: flex;
+    justify-content: center;
+  }
+  .allp2{
+    width: 100%;
+    padding: 3px;
+  overflow: hidden;
+  height: 77%;
+}
+  .allsimages{
+      width: 40px;
+      height: auto;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+      margin-right: 16px;
+    margin-bottom: 77px;
+  }
+  .allsimages:hover{
+      animation-name: bounce;
+    animation-timing-function: ease;
+  }
+  .skicona{
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+  .Allskip2{
+    max-width: 1274px;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .Allskimg{
+    width: 356px;
+    height: 356px;
+  }
+  .Allskinames{
+    color: rgb(191, 64, 191);
+    font-weight: bold;
+    margin-bottom: 3rem;
+    font-size: 19px;
+  }
+  @keyframes bounce {
+      0%   { transform: translateY(0); }
+      50%  { transform: translateY(-50px); }
+      100% { transform: translateY(0); }
+      }
+  }
+
+@media only screen and (min-width: 550px){
+  .allp{
+      width: 100%;
+      padding: 3px;
+    overflow: hidden;
+    height: 77%;
+    display: flex;
+    justify-content: center;
+  }
+  .allp2{
+    width: 100%;
+    padding: 3px;
+  overflow: hidden;
+  height: 77%;
+}
+  .allsimages{
+      width: 60px;
+      height: auto;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+      margin-right: 36px;
+    margin-bottom: 77px;
+  }
+  .allsimages:hover{
+      animation-name: bounce;
+    animation-timing-function: ease;
+  }
+  .skicona{
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+  .Allskip2{
+    max-width: 1274px;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .Allskimg{
+    width: 488px;
+    height: 488px;
+  }
+  .Allskinames{
+    color: rgb(191, 64, 191);
+    font-weight: bold;
+    margin-bottom: 3rem;
+    font-size: 22px;
+  }
+  @keyframes bounce {
+      0%   { transform: translateY(0); }
+      50%  { transform: translateY(-50px); }
+      100% { transform: translateY(0); }
+      }
+  }
+
+@media only screen and (min-width: 768px){
+  .allp{
+      width: 50%;
+      padding: 3px;
+    overflow: hidden;
+    height: 77%;
+  }
+  .allp2{
+    width: 50%;
+    padding: 3px;
+  overflow: hidden;
+  height: 77%;
+}
+  .allsimages{
+      width: 45px;
+      height: auto;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+      margin-right: 24px;
+    margin-bottom: 77px;
+  }
+  .allsimages:hover{
+      animation-name: bounce;
+    animation-timing-function: ease;
+  }
+  .skicona{
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+  .Allskip2{
+    max-width: 1274px;
+    display: flex;
+    width: 100%;
+  }
+  .Allskimg{
+    width: 100%;
+    height: 106%;
+  }
+  .Allskinames{
+    color: rgb(191, 64, 191);
+    font-weight: bold;
+    margin-bottom: 4rem;
+    font-size: 19px;
+  }
+  @keyframes bounce {
+      0%   { transform: translateY(0); }
+      50%  { transform: translateY(-50px); }
+      100% { transform: translateY(0); }
+      }
+  }
+
+@media only screen and (min-width: 992px){
+  .allp{
+      width: 50%;
+      padding: 3px;
+    overflow: hidden;
+    height: 94%;
+  }
+  .allp2{
+    width: 50%;
+    padding: 3px;
+  overflow: hidden;
+  height: 94%;
+}
+  .allsimages{
+      width: 45px;
+      height: auto;
+      animation-duration: 2s;
+      animation-iteration-count: infinite;
+      transform-origin: bottom;
+      margin-right: 38px;
+    margin-bottom: 77px;
+  }
+  .allsimages:hover{
+      animation-name: bounce;
+    animation-timing-function: ease;
+  }
+  .skicona{
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+  }
+  .Allskip2{
+    max-width: 1274px;
+    display: flex;
+    height: 500px;
+    width: 100%;
+  }
+  .Allskimg{
+    width: 100%;
+    height: 106%;
+  }
+  .Allskinames{
+    color: rgb(191, 64, 191);
+    font-weight: bold;
+    margin-bottom: 105px;
+    font-size: 19px;
+  }
+  @keyframes bounce {
+      0%   { transform: translateY(0); }
+      50%  { transform: translateY(-50px); }
+      100% { transform: translateY(0); }
+      }
+  }
+
+@media only screen and (min-width: 1200px){
+.allp{
+    width: 50%;
+    padding: 23px;
+  overflow: hidden;
+}
+.allp2{
+  width: 50%;
+  padding: 23px;
+overflow: hidden;
+}
+.allsimages{
+    width: 64px;
+    height: auto;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: bottom;
+    margin-right: 38px;
+  margin-bottom: 77px;
+}
+.allsimages:hover{
+    animation-name: bounce;
+  animation-timing-function: ease;
+}
+.skicona{
+  height: 646px;
+  background-color: black;
+  color: white;
+  padding: 1.4rem;
+}
+.Allskip2{
+  max-width: 1274px;
+  display: flex;
+  height: 500px;
+  width: 100%;
+}
+.Allskimg{
+  width: 500px;
+  height: 500px;
+}
+.Allskinames{
+  color: rgb(191, 64, 191);
+  font-weight: bold;
+  margin-bottom: 105px;
+}
+@keyframes bounce {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-50px); }
+    100% { transform: translateY(0); }
+    }
+}

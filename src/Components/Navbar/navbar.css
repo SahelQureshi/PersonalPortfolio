@@ -1,0 +1,431 @@
+@media only screen and (min-width:200px){
+  .offcanvas{
+    height: 538px;
+  border-radius: 14px;
+  background-color: transparent;
+  color: white;
+  border: 2px solid purple;
+  backdrop-filter: blur(8px);
+  }
+  .btnsM{
+    background-color: transparent;
+  border-radius: 28px;
+  border: 2px solid purple;
+  width: 37px;
+  color: white;
+  font-size: 16px;
+  height: 37px;
+  font-weight: bold;
+  transition: 400ms ease-in-out ;
+  padding: 0;
+  }
+  .btnsM:hover{
+    background-color: transparent;
+  border-radius: 28px;
+  border: 2px solid rgb(255, 4, 255);
+  }
+  .MenuIMG{
+    width: 20px;
+    margin-right: 15px;
+  }
+  .HiddenNavInner{
+    background-color: transparent;
+  border: 2px solid #d511d5;
+  padding: 2px;
+  }
+  .KINavB{
+    padding-left: 0;
+  list-style: none;
+  margin-bottom: 19px;
+  font-size: 19px;
+  }
+  .offcanvas-backdrop{
+    top: -25px;
+    left: -25px;
+  }
+  .NavBar{
+    display: none;
+  }
+  .HiddenNavBar{
+    width: 94vw;
+    border: 2px solid white;
+    height: 57px;
+    position: fixed;
+    margin-top: 22px;
+    border-radius: 999px;
+    z-index: 10;
+    display: flex;
+    justify-content: flex-end;
+    padding: 6px;
+    backdrop-filter: blur(18px);
+  }
+  .HiddenNavInner{
+    width: 41px;
+  height: 100%;
+  border-radius: 38px;
+  }
+  }
+
+@media only screen and (min-width:350px){
+  .offcanvas{
+    height: 538px;
+  border-radius: 14px;
+  background-color: transparent;
+  color: white;
+  border: 2px solid purple;
+  backdrop-filter: blur(8px);
+  }
+  .btnsM{
+    background-color: transparent;
+  border-radius: 28px;
+  border: 2px solid purple;
+  width: 37px;
+  color: white;
+  font-size: 16px;
+  height: 37px;
+  font-weight: bold;
+  transition: 400ms ease-in-out ;
+  padding: 0;
+  }
+  .btnsM:hover{
+    background-color: transparent;
+  border-radius: 28px;
+  border: 2px solid rgb(255, 4, 255);
+  }
+  .MenuIMG{
+    width: 20px;
+    margin-right: 15px;
+  }
+  .HiddenNavInner{
+    background-color: transparent;
+  border: 2px solid #d511d5;
+  padding: 2px;
+  }
+  .KINavB{
+    padding-left: 0;
+  list-style: none;
+  margin-bottom: 19px;
+  font-size: 19px;
+  }
+  .offcanvas-backdrop{
+    top: -25px;
+    left: -25px;
+  }
+  .NavBar{
+    display: none;
+  }
+  .HiddenNavBar{
+    width: 94vw;
+    border: 2px solid white;
+    height: 57px;
+    position: fixed;
+    margin-top: 22px;
+    border-radius: 999px;
+    z-index: 10;
+    display: flex;
+    justify-content: flex-end;
+    padding: 6px;
+    backdrop-filter: blur(18px);
+  }
+  .HiddenNavInner{
+    width: 41px;
+  height: 100%;
+  border-radius: 38px;
+  }
+  }
+
+@media only screen and (min-width:550px){
+  .offcanvas{
+    height: 538px;
+  border-radius: 14px;
+  background-color: transparent;
+  color: white;
+  border: 2px solid purple;
+  backdrop-filter: blur(8px);
+  }
+  .btnsM{
+    background-color: transparent;
+  border-radius: 28px;
+  border: 2px solid purple;
+  width: 37px;
+  color: white;
+  font-size: 16px;
+  height: 37px;
+  font-weight: bold;
+  transition: 400ms ease-in-out ;
+  padding: 0;
+  }
+  .btnsM:hover{
+    background-color: transparent;
+  border-radius: 28px;
+  border: 2px solid rgb(255, 4, 255);
+  }
+  .MenuIMG{
+    width: 20px;
+    margin-right: 15px;
+  }
+  .HiddenNavInner{
+    background-color: transparent;
+  border: 2px solid #d511d5;
+  padding: 2px;
+  }
+  .KINavB{
+    padding-left: 0;
+  list-style: none;
+  margin-bottom: 19px;
+  font-size: 19px;
+  }
+  .offcanvas-backdrop{
+    top: -25px;
+    left: -25px;
+  }
+  .NavBar{
+    display: none;
+  }
+  .HiddenNavBar{
+    width: 94vw;
+    border: 2px solid white;
+    height: 57px;
+    position: fixed;
+    margin-top: 22px;
+    border-radius: 999px;
+    z-index: 10;
+    display: flex;
+    justify-content: flex-end;
+    padding: 6px;
+    backdrop-filter: blur(18px);
+  }
+  .HiddenNavInner{
+    width: 41px;
+  height: 100%;
+  border-radius: 38px;
+  }
+  }
+
+@media only screen and (min-width:768px){
+  .offcanvas{
+    height: 538px;
+  border-radius: 14px;
+  background-color: transparent;
+  color: white;
+  border: 2px solid purple;
+  backdrop-filter: blur(8px);
+  }
+  .btnsM{
+    background-color: transparent;
+  border-radius: 28px;
+  border: 2px solid purple;
+  width: 37px;
+  color: white;
+  font-size: 16px;
+  height: 37px;
+  font-weight: bold;
+  transition: 400ms ease-in-out ;
+  padding: 0;
+  }
+  .btnsM:hover{
+    background-color: transparent;
+  border-radius: 28px;
+  border: 2px solid rgb(255, 4, 255);
+  }
+  .MenuIMG{
+    width: 20px;
+    margin-right: 15px;
+  }
+  .HiddenNavInner{
+    background-color: transparent;
+  border: 2px solid #d511d5;
+  padding: 2px;
+  }
+  .KINavB{
+    padding-left: 0;
+  list-style: none;
+  margin-bottom: 19px;
+  font-size: 19px;
+  }
+  .offcanvas-backdrop{
+    top: -25px;
+    left: -25px;
+  }
+  .NavBar{
+    display: none;
+  }
+  .HiddenNavBar{
+    width: 94vw;
+    border: 2px solid white;
+    height: 57px;
+    position: fixed;
+    margin-top: 22px;
+    border-radius: 999px;
+    z-index: 10;
+    display: flex;
+    justify-content: flex-end;
+    padding: 6px;
+    backdrop-filter: blur(18px);
+  }
+  .HiddenNavInner{
+    width: 41px;
+  height: 100%;
+  border-radius: 38px;
+  }
+  }
+
+@media only screen and (min-width:992px){
+  .HiddenNavBar{
+    display: none;
+  }
+  .NavBar{
+    height:60px;
+    background-color:transparent;
+    color: white;
+    position:fixed;
+    width: 90%;
+    backdrop-filter: blur(28px);
+    z-index: 12;
+    border: 2px solid #ff01fb;
+    border-radius: 999px;
+    margin-top: 1rem;
+    display: flex;
+    
+  }
+  .navcon1{
+    width: 227px;
+    padding:4px;
+  }
+  .navcon2{
+    width: 900px;
+    padding: 10px;
+  }
+  .navcon3{
+    width: 150px;
+    padding-right: 6px;
+  }
+  .btnsnav {
+    align-items: center;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 16px;
+    justify-content: center;
+    line-height: 1em;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+    width: 99px;
+    height: 34px;
+    border-radius: 30px;
+  }
+  .btnsnav:active,
+  .btnsnav:hover {
+    outline: 0;
+  }
+  .btnsnav .btnnavtext {
+    background-color: rgb(5, 6, 45);
+    padding: 5px 22px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+    border-radius: 30px;
+  }
+  .btnsnav:hover .btnnavtext {
+    background: none;
+  }
+  .NavIMGS{
+    width:100%;
+    height:46px;
+    margin-left: 2px;
+  }
+  .NavULI{
+    font-size: 17px;
+    width: 100%;
+  }
+  }
+
+@media only screen and (min-width:1200px){
+.HiddenNavBar{
+  display: none;
+}
+.NavBar{
+  height:68px;
+  background-color:transparent;
+  color: white;
+  position:fixed;
+  width: 90%;
+  backdrop-filter: blur(28px);
+  z-index: 12;
+  border: 2px solid #ff01fb;
+  border-radius: 999px;
+  margin-top: 1rem;
+  display: flex;
+}
+.navcon1{
+  width: 227px;
+  padding:4px;
+}
+.navcon2{
+  width: 900px;
+  padding: 20px;
+}
+.navcon3{
+  width: 150px;
+}
+.btnsnav {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 1em;
+  padding: 3px;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+  width: 112px;
+  height: 43px;
+  border-radius: 30px;
+}
+.btnsnav:active,
+.btnsnav:hover {
+  outline: 0;
+}
+.btnsnav .btnnavtext {
+  background-color: rgb(5, 6, 45);
+  padding: 8px 22px;
+  border-radius: 6px;
+  width: 100%;
+  height: 100%;
+  transition: 300ms;
+  border-radius: 30px;
+}
+.btnsnav:hover .btnnavtext {
+  background: none;
+}
+.NavIMGS{
+  width:100%;
+  height:53px;
+  margin-left: 2px;
+}
+.NavULI{
+  font-size: 20px;
+  width: 100%;
+}
+}
