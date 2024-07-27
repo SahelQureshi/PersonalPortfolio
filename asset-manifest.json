@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PersonalPortfolio/static/css/main.5b18f986.css",
-    "main.js": "/PersonalPortfolio/static/js/main.73c5f2a4.js",
+    "main.css": "/PersonalPortfolio/static/css/main.b4d3633a.css",
+    "main.js": "/PersonalPortfolio/static/js/main.8a09778d.js",
     "static/js/592.cc33fc52.chunk.js": "/PersonalPortfolio/static/js/592.cc33fc52.chunk.js",
     "static/media/sahel 2.png": "/PersonalPortfolio/static/media/sahel 2.07859f472503cbd922f6.png",
     "static/media/vivid-blurred-colorful-background.jpg": "/PersonalPortfolio/static/media/vivid-blurred-colorful-background.5857e449c47d1086b009.jpg",
@@ -47,12 +47,12 @@
     "index.html": "/PersonalPortfolio/index.html",
     "static/media/javascript-svgrepo-com.svg": "/PersonalPortfolio/static/media/javascript-svgrepo-com.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
     "static/media/reshot-icon-circle-outline-up-left-ZSFHGNABVT.svg": "/PersonalPortfolio/static/media/reshot-icon-circle-outline-up-left-ZSFHGNABVT.06e3a0208124fdfdb6207e91f399974f.svg",
-    "main.5b18f986.css.map": "/PersonalPortfolio/static/css/main.5b18f986.css.map",
-    "main.73c5f2a4.js.map": "/PersonalPortfolio/static/js/main.73c5f2a4.js.map",
+    "main.b4d3633a.css.map": "/PersonalPortfolio/static/css/main.b4d3633a.css.map",
+    "main.8a09778d.js.map": "/PersonalPortfolio/static/js/main.8a09778d.js.map",
     "592.cc33fc52.chunk.js.map": "/PersonalPortfolio/static/js/592.cc33fc52.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b18f986.css",
-    "static/js/main.73c5f2a4.js"
+    "static/css/main.b4d3633a.css",
+    "static/js/main.8a09778d.js"
   ]
 }
