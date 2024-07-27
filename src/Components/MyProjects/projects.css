@@ -1,6 +1,7 @@
 @media only screen and (min-width: 350px){
   .meinproject1{
     padding: 0;
+    padding-top: 68px;
   }
   .prc1{
       text-align: center;
@@ -36,6 +37,7 @@
 @media only screen and (min-width: 550px){
   .meinproject1{
     padding: 1.5rem;
+    padding-top: 68px;
   }
   .prc1{
       text-align: center;
@@ -71,6 +73,7 @@
 @media only screen and (min-width: 768px){
   .meinproject1{
     padding: 1.5rem;
+    padding-top: 68px;
   }
   .prc1{
       text-align: center;
@@ -104,6 +107,7 @@
 @media only screen and (min-width: 992px){
   .meinproject1{
     padding: 1.5rem;
+    padding-top: 57px;
   }
   .prc1{
       text-align: center;
@@ -137,6 +141,7 @@
 @media only screen and (min-width: 1200px){
   .meinproject1{
     padding: 1.5rem;
+    padding-top: 68px;
   }
 .prc1{
     text-align: center;

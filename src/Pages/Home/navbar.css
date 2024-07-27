@@ -1,70 +1,4 @@
-@media only screen and (min-width:200px){
-  .offcanvas{
-    height: 538px;
-  border-radius: 14px;
-  background-color: transparent;
-  color: white;
-  border: 2px solid purple;
-  backdrop-filter: blur(8px);
-  }
-  .btnsM{
-    background-color: transparent;
-  border-radius: 28px;
-  border: 2px solid purple;
-  width: 37px;
-  color: white;
-  font-size: 16px;
-  height: 37px;
-  font-weight: bold;
-  transition: 400ms ease-in-out ;
-  padding: 0;
-  }
-  .btnsM:hover{
-    background-color: transparent;
-  border-radius: 28px;
-  border: 2px solid rgb(255, 4, 255);
-  }
-  .MenuIMG{
-    width: 20px;
-    margin-right: 15px;
-  }
-  .HiddenNavInner{
-    background-color: transparent;
-  border: 2px solid #d511d5;
-  padding: 2px;
-  }
-  .KINavB{
-    padding-left: 0;
-  list-style: none;
-  margin-bottom: 19px;
-  font-size: 19px;
-  }
-  .offcanvas-backdrop{
-    top: -25px;
-    left: -25px;
-  }
-  .NavBar{
-    display: none;
-  }
-  .HiddenNavBar{
-    width: 94vw;
-    border: 2px solid white;
-    height: 57px;
-    position: fixed;
-    margin-top: 22px;
-    border-radius: 999px;
-    z-index: 10;
-    display: flex;
-    justify-content: flex-end;
-    padding: 6px;
-    backdrop-filter: blur(18px);
-  }
-  .HiddenNavInner{
-    width: 41px;
-  height: 100%;
-  border-radius: 38px;
-  }
-  }
+
 
 @media only screen and (min-width:350px){
   .offcanvas{
@@ -271,6 +205,9 @@
   }
 
 @media only screen and (min-width:992px){
+  .navnamehov:hover{
+    cursor: grab;
+  }
   .HiddenNavBar{
     display: none;
   }
@@ -341,7 +278,7 @@
     background: none;
   }
   .NavIMGS{
-    width:100%;
+    width:75%;
     height:46px;
     margin-left: 2px;
   }
@@ -352,6 +289,9 @@
   }
 
 @media only screen and (min-width:1200px){
+  .navnamehov:hover{
+    cursor: grab;
+  }
 .HiddenNavBar{
   display: none;
 }
@@ -420,7 +360,7 @@
   background: none;
 }
 .NavIMGS{
-  width:100%;
+  width:75%;
   height:53px;
   margin-left: 2px;
 }

@@ -307,7 +307,6 @@
 @media only screen and (min-width: 768px){
   .mabout {
     padding: 0;
-    padding-top: 3rem;
     background-color: black;
     color: white;
   }
@@ -315,6 +314,8 @@
     max-width: 1540px;
     width: 100%;
     display: flex;
+    padding-top: 100px;
+
   
   }
   .ab1 {
@@ -406,7 +407,7 @@
 @media only screen and (min-width: 992px){
   .mabout {
     padding: 0.5rem;
-    padding-top: 3rem;
+    
     background-color: black;
     color: white;
   }
@@ -414,6 +415,7 @@
     max-width: 1540px;
     width: 100%;
     display: flex;
+    padding-top: 100px;
   
   }
   .ab1 {
@@ -494,7 +496,7 @@
 
 @media  screen and (min-width: 1200px){
 .mabout {
-  padding-top: 3rem;
+ 
   background-color: black;
   color: white;
   padding: 0;
@@ -504,6 +506,8 @@
   width: 100%;
   display: flex;
   padding: 1rem;
+  padding-top: 100px;
+
 }
 .abouttextpara {
   margin-top: 3rem;
