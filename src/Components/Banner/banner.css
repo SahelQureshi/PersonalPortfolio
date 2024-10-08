@@ -813,3 +813,22 @@ margin-right: 16px;
 }
 }
 
+@media screen and (min-width: 1400px) {
+  .meinbanner {
+    height: 837px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: white;
+    max-width: 1476px;
+  }
+  .meincontainer {
+    max-width: 3000px;
+    width: 105%;
+    padding-top: 21px;
+    display: flex;
+    height: 100%;
+  }
+}
+

@@ -79,10 +79,10 @@ export default function Home() {
       </div>
     </nav>
     </div>
-    <div ref={section1}>
+    <div ref={section1} style={{display:"flex",backgroundColor:"black",justifyContent:"center"}}>
     <Banner />
     </div>
-    <div ref={section2}>
+    <div ref={section2} style={{display:"flex",backgroundColor:"black",justifyContent:"center"}}>
     <About />
     </div>
     <div ref={section3}>
