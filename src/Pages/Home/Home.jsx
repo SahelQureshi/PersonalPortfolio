@@ -30,7 +30,6 @@ export default function Home() {
   const section6=useRef();
   const section7=useRef();
   const section8=useRef();
-  const section9=useRef();
   const scrollHandler=(elmRef)=>{
     window.scrollTo({ top:elmRef.current.offsetTop, behavior:"smooth"});
   };
